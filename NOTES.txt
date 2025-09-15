@@ -1,0 +1,11 @@
+Nama Kelompok: HTML Acronym
+No. Kelompok: 4
+Nama Anggota:
+1. Alif Pratama (02)
+2. Andrian Aminudin (04)
+3. M. Aditya Resva Fauzan (21)
+4. M. Zacky Zalian Ilham (27)
+5. Randi Pratama (30)
+
+Tools: Laravel dan MySQL
+(Untuk export file SQL dan server menggunakan Laragon. Biasanya ada error di awal dan coba direfresh saja sudah bisa)
